@@ -49,8 +49,11 @@
 
   5. Muncul jendela yang akan meminta Anda untuk mencari baris perintah PHP. Secara default, baris perintah dapat ditemukan di C:/xampp/php/pjp.exe. Setelah itu, klik Next.
   6. Permintaan Pengaturan Proxy (Proxy Settings) akan muncul. Kosongkan boks (tidak perlu ditandai) dan lewati bagian ini dengan meng-klik opsi Next. Klik Install di jendela berikutnya.
-  7. Buka command prompt. Tekan tombol CTRL+R, ketik “cmd” di dalam kolom prompt, dan klik OK.
-  8. Jalankan perintah "composer".
+  7. Buka command prompt. Tekan tombol windows+R, ketik “cmd” di dalam kolom prompt, dan klik OK.
+
+     <img width="281" alt="image" src="https://github.com/AisyahNK274/AisyahNK274/assets/134478695/7c2fc0b8-58f8-4b5e-bcb1-e7cdbac3821a">
+
+  9. Jalankan perintah "composer". Composer berhasil terinstall di komputer Windows. Installer akan menambahkan Composer secara otomatis ke variabel PATH. Buka command prompt dan jalankan software dari mana saja.
 <!--
 **AisyahNK274/AisyahNK274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
