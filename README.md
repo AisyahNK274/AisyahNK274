@@ -44,10 +44,13 @@
   1. Install PHP sebaiknya gunakan XAMPP karena prosesnya mudah dan bisa selesai hanya dalam hitungan menit.
   2. Unduh versi terbaru Composer.
   3. Jalankan (run) Composer installation wizard. Abaikan jika Anda diminta untuk mengaktifkan mode developer. Lanjutkan proses install.
-  4. Muncul jendela yang akan meminta Anda untuk mencari baris perintah PHP. Secara default, baris perintah dapat ditemukan di C:/xampp/php/pjp.exe. Setelah itu, klik Next.
-  5. Permintaan Pengaturan Proxy (Proxy Settings) akan muncul. Kosongkan boks (tidak perlu ditandai) dan lewati bagian ini dengan meng-klik opsi Next. Klik Install di jendela berikutnya.
-  6. Buka command prompt. Tekan tombol CTRL+R, ketik “cmd” di dalam kolom prompt, dan klik OK.
-  7. Jalankan perintah "composer".
+
+     <img width="214" alt="image" src="https://github.com/AisyahNK274/AisyahNK274/assets/134478695/1155615e-2d68-48ad-b350-8fa7ea321ce9">
+
+  5. Muncul jendela yang akan meminta Anda untuk mencari baris perintah PHP. Secara default, baris perintah dapat ditemukan di C:/xampp/php/pjp.exe. Setelah itu, klik Next.
+  6. Permintaan Pengaturan Proxy (Proxy Settings) akan muncul. Kosongkan boks (tidak perlu ditandai) dan lewati bagian ini dengan meng-klik opsi Next. Klik Install di jendela berikutnya.
+  7. Buka command prompt. Tekan tombol CTRL+R, ketik “cmd” di dalam kolom prompt, dan klik OK.
+  8. Jalankan perintah "composer".
 <!--
 **AisyahNK274/AisyahNK274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
