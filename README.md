@@ -24,11 +24,16 @@
   
   Untuk menginstall CodeIgniter dengan composer, masukkan perintah berikut.
   
-  Ada beberapa argumen yang kita berikan pada perintah ini:
+  <img width="415" alt="image" src="https://github.com/AisyahNK274/AisyahNK274/assets/134478695/a619961d-74d9-4bfa-a388-8ad400af31b4">
 
+  Tunggu sampai proses selesai.
+  
+  Ada beberapa perintah yang diberikan antara lain :
   - create-project adalah perintah untuk membuat proyek baru dengan composer.
   - codeigniter4/appstarter adalah file CI yang akan di-download.
-  - CI4_AISYAH adalah nama proyek yang akan kita buat.
+  - CI4_AISYAH adalah nama folder yang akan kita buat.
+
+  Setelah prosesnya selesai, kita akan mendapatkan folder baru dengan nama CI4_AISYAH.
 <!--
 **AisyahNK274/AisyahNK274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
