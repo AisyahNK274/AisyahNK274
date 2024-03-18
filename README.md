@@ -20,7 +20,7 @@
 ### 2. Cara Instalasi
   CodeIgniter memiliki dua metode instalasi yang didukung yaitu download manual dan menggunakan Composer.
   
-  A. Menggunakan Composer
+#### A. Menggunakan Composer
   
   Untuk menginstall CodeIgniter dengan composer, masukkan perintah berikut.
   
@@ -33,7 +33,21 @@
   - codeigniter4/appstarter adalah file CI yang akan di-download.
   - CI4_AISYAH adalah nama folder yang akan kita buat.
 
-  Setelah prosesnya selesai, kita akan mendapatkan folder baru dengan nama CI4_AISYAH.
+  Setelah prosesnya selesai, akan mendapatkan folder baru dengan nama CI4_AISYAH.
+
+  <img width="142" alt="image" src="https://github.com/AisyahNK274/AisyahNK274/assets/134478695/b034c988-f47f-4ee7-94c3-6365f9be835b">
+
+#### B. Download Manual
+
+  Langkah - langkah yang harus dilakukan :
+
+  1. Install PHP sebaiknya gunakan XAMPP karena prosesnya mudah dan bisa selesai hanya dalam hitungan menit.
+  2. Unduh versi terbaru Composer.
+  3. Jalankan (run) Composer installation wizard. Abaikan jika Anda diminta untuk mengaktifkan mode developer. Lanjutkan proses install.
+  4. Muncul jendela yang akan meminta Anda untuk mencari baris perintah PHP. Secara default, baris perintah dapat ditemukan di C:/xampp/php/pjp.exe. Setelah itu, klik Next.
+  5. Permintaan Pengaturan Proxy (Proxy Settings) akan muncul. Kosongkan boks (tidak perlu ditandai) dan lewati bagian ini dengan meng-klik opsi Next. Klik Install di jendela berikutnya.
+  6. Buka command prompt. Tekan tombol CTRL+R, ketik “cmd” di dalam kolom prompt, dan klik OK.
+  7. Jalankan perintah "composer".
 <!--
 **AisyahNK274/AisyahNK274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
