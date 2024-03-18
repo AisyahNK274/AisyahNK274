@@ -22,7 +22,9 @@
   
   A. Menggunakan Composer
   
-  ![Untuk menginstall CodeIgniter dengan composer, masukkan perintah berikut.]
+  Untuk menginstall CodeIgniter dengan composer, masukkan perintah berikut.
+  <img width="354" alt="Screenshot 2024-03-18 094352" src="https://github.com/AisyahNK274/AisyahNK274/assets/134478695/18617e11-7364-40e7-bcfd-e994ca9ce070">
+
 <!--
 **AisyahNK274/AisyahNK274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
